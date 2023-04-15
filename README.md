@@ -1,4 +1,4 @@
-# Simple-Mart-Home
+# Simple-Smart-Home
 
 We'll design and implement a simple Smart Home setup. The main focus is on
 improving the designed communication channels and payloads over MQTT, and storage data
